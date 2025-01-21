@@ -1,15 +1,15 @@
 const logotext = "ASHUTOSH";
 const meta = {
     title: "Ashutosh Singh",
-    description: "I’m Ashutosh Singh_ Web devloper,Aiml enthusiast,currently based in Bangalore",
+    description: "I’m Ashutosh Singh_ Web devloper,Aiml enthusiast,currently based in Noida",
 };
 
 const introdata = {
     title: "I’m Ashutosh Singh",
     animated: {
         first: "I love coding",
-        second: "I code cool websites",
-        third: "I am also a part-time competitive coder",
+        second: "AIML Enthusiast",
+        third: "I am also a Software Developer",
     },
     description: "I'm a passionate  web developer and competitive programmer with a deep love for problem solving and coding.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
@@ -17,7 +17,8 @@ const introdata = {
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Hello, I'm a final year engineering student pursuing a degree in Information Science and Engineering. I have a deep passion for coding and a knack for creative problem-solving. Throughout my academic journey, I've dedicated myself to mastering the art of software development and honing my problem-solving skills."
+    aboutme: "Hello, I am an R&D Graduate Engineer Trainee at Synopsys, leveraging my background in Information Science and Engineering from RNS Institute of Technology to develop innovative software solutions for Electronic Design Automation (EDA). With expertise in C, C++, Python, and SystemVerilog, I specialize in solving complex challenges, optimizing performance, and driving advancements in the semiconductor industry. Passionate about technology, I am committed to delivering efficient and high-quality software."
+
 
    
 };
@@ -32,7 +33,7 @@ const worktimeline= [{
         date: "2019",
     },
     {
-        jobtitle: "Bachelor of Engineering(ongoing)",
+        jobtitle: "Bachelor of Engineering",
         where: "RNS Institute of technology,Bengaluru",
         date: "2024",
     },
@@ -75,6 +76,13 @@ const services = [{
 ];
 
 const dataportfolio = [{
+
+    
+        img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dresume%2Blogo&psig=AOvVaw0XrxR4YOgTcTtPvsGOIJHz&ust=1737566212357000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjZ-Nmoh4sDFQAAAAAdAAAAABAE",
+        description: "Resume",
+        link: "https://docs.google.com/document/d/1AXYA-UoKmY2Ze2PQyPM9_TMRSKQBosBBYUAEzFoReOQ/edit?usp=sharing"
+     },
+     {
         img: "https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png?w=700&h=456",
         description: "I've leveraged the capabilities of React to build a responsive and interactive user interface that closely resembles the Netflix browsing experience. .",
         link: "https://netflix-clone-2d02f.web.app/",
@@ -138,7 +146,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "singh.ashutoshdec@gmail.com",
+    YOUR_EMAIL: "ashutosh.official011@gmail.com",
     YOUR_FONE: "9958377829",
     description: " To get in touch with me or you have any queries regarding the services,please contact on the details mentioned above. ",
     // creat an emailjs.com account 
@@ -149,7 +157,7 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/",
+    github: "https://github.com/ashutoshsingh07/portfolio",
    // facebook: "https://facebook.com",
     linkedin: "https://www.linkedin.com/in/ashutosh-singh-011428204/",
    // twitter: "https://twitter.com",
